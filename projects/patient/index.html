@@ -1,6 +1,5 @@
 <!DOCTYPE html>
-<html lang="en"><head>
-	<meta name="generator" content="Hugo 0.126.1"><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<html lang="en"><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -18,26 +17,26 @@
     
 
     
-    <title>Jiale Yu&#39;s Site</title>
+    <title>A Clinician Centric Website for Monitoring the Progress of Patients</title>
     <meta name="description" content="First year Master of Computing student from the Australian National University with experience gained in Software Development and Machine Learning. Strong coding ability, responsible, highly organised, and keen to learn new knowledge. Contact me: Jiale.Yu@anu.edu.au">
     <meta name="keywords" content='blog, gokarna, hugo'>
 
-    <meta property="og:url" content="http://localhost:1313/">
+    <meta property="og:url" content="http://localhost:1313/projects/patient/">
     <meta property="og:type" content="website">
-    <meta property="og:title" content="Jiale Yu&#39;s Site">
+    <meta property="og:title" content="A Clinician Centric Website for Monitoring the Progress of Patients">
     <meta property="og:description" content="First year Master of Computing student from the Australian National University with experience gained in Software Development and Machine Learning. Strong coding ability, responsible, highly organised, and keen to learn new knowledge. Contact me: Jiale.Yu@anu.edu.au">
     <meta property="og:image" content="http://localhost:1313/images/author.jpg">
     <meta property="og:image:secure_url" content="http://localhost:1313/images/author.jpg">
 
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Jiale Yu&#39;s Site">
+    <meta name="twitter:title" content="A Clinician Centric Website for Monitoring the Progress of Patients">
     <meta name="twitter:description" content="First year Master of Computing student from the Australian National University with experience gained in Software Development and Machine Learning. Strong coding ability, responsible, highly organised, and keen to learn new knowledge. Contact me: Jiale.Yu@anu.edu.au">
-    <meta property="twitter:domain" content="http://localhost:1313/">
-    <meta property="twitter:url" content="http://localhost:1313/">
+    <meta property="twitter:domain" content="http://localhost:1313/projects/patient/">
+    <meta property="twitter:url" content="http://localhost:1313/projects/patient/">
     <meta name="twitter:image" content="http://localhost:1313/images/author.jpg">
 
     
-    <link rel="canonical" href="http://localhost:1313/">
+    <link rel="canonical" href="http://localhost:1313/projects/patient/">
 
     
     <link rel="stylesheet" type="text/css" href="/css/normalize.min.css" media="print">
@@ -150,59 +149,47 @@
     </nav>
 </header>
 <main id="content">
-<section class="home-about">
-	<div class="avatar">
-        
-        <img class=size-xs src='/images/author.jpg' alt="avatar">
-        
-	</div>
-
-    <h1>Jiale Yu&#39;s Site</h1>
-    
-        <h3>First year Master of Computing student from the Australian National University with experience gained in Software Development and Machine Learning. Strong coding ability, responsible, highly organised, and keen to learn new knowledge. Contact me: Jiale.Yu@anu.edu.au</h3>
     
 
-</section>
+    <div class="post container">
 
-<div class="flex-break"></div>
-
-
-<div class="social-icons">
-    <ul class="social-icons-list">
-        
-        <li class="social-icon">
-            <a href="mailto:Jiale.Yu@anu.edu.au"  aria-label="Learn more on email">
-                <img class="svg-inject" src="/svg/icons/email.svg" alt="">
-            </a>
-        </li>
-        
-    </ul>
-</div>
-
-
-
-
-
-
-    <div class="home-posts list-posts">
-        <h2> Posts</h2>
-
-    
-
-    
-        <div class="post-title">
-    <a href="http://localhost:1313/posts/achivements/" class="post-link">Achivements</a>
-    <div class="flex-break"></div>
-    <span class="post-date">May 28, 2024</span>
-</div>
-<div class="post-title">
-    <a href="http://localhost:1313/posts/skills/" class="post-link">Skills</a>
-    <div class="flex-break"></div>
-    <span class="post-date">May 28, 2024</span>
-</div>
-
-    
+    <div class="post-header-section">
+        <h1>A Clinician Centric Website for Monitoring the Progress of Patients</h1>
     </div>
+
+    <div class="post-content">
+        <h2 id="objectives">Objectives</h2>
+<p>The high-level goal of the project is to build a clinician centric website for submitting and viewing patient data and monitoring the progress of patients. The subproject &ldquo;Summary Page Construction&rdquo; that I am responsible for is designed to achieve one of the goals of the entire website, which is to provide an intuitive and easy-to-use page to view patient information.</p>
+<h2 id="stakeholders">Stakeholders</h2>
+<ul>
+<li>Project manager: Project manager from the host is responsible for supervising and managing the entire project implementation process, ensuring that the project is completed on time and meets the user requirements and expected quality standards.</li>
+<li>Developers: Developers are responsible for developing the project.</li>
+<li>Researchers: Medical researchers need to use the summary pages to access patient data to support their research. Researchers using the website are working on personalized medicine technology. They are analysing genes to assess a patient&rsquo;s immune system and using that information to develop the personalized treatment plan.</li>
+<li>Clinicians: As the end users of the project, clinicians are among the most important stakeholders. They need to use the summary page to have efficient access to patient information.</li>
+</ul>
+<h2 id="activities">Activities</h2>
+<ol>
+<li>Project Planning: Collaborate with stakeholders to nail down the requirements and made a plan accordingly.</li>
+<li>Development: Used Vue.js for the frontend, Python with FastAPI on the backend, and Postgresql as the database to develop the webpage.</li>
+<li>Testing and Refactoring: Test, review, and refactor the code to ensure the website is robust and user-friendly.</li>
+</ol>
+<h2 id="outcomes">Outcomes</h2>
+<h3 id="patient-information-display">Patient Information Display</h3>
+<p>The summary page shows basic information, family trees, phenotypes, and logs of treatment activities for each patient.
+<img src="../../images/projects/patient/patient_1.png" alt="patient_desktop"></p>
+<h3 id="responsive-design">Responsive Design</h3>
+<p>It looks great on both desktops and phones.
+<img src="../../images/projects/patient/patient_2.png" alt="patient_mobile"></p>
+<h2 id="impact">Impact</h2>
+<ul>
+<li>For clinicians: Improve the efficiency of clinician&rsquo;s access and management to patient information.</li>
+<li>For researchers: Accelerate the progress of conducting research and collecting results.</li>
+<li>For patients: Provide better medical services for patients.</li>
+</ul>
+
+    </div>
+</div>
+
 
 
 

@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jiale Yu&#39;s Site</title>
-    <link>http://localhost:1313/</link>
+    <link>https://jl-yu-0327.github.io/</link>
     <description>Recent content on Jiale Yu&#39;s Site</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 28 May 2024 20:48:44 +1000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jl-yu-0327.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Achivements</title>
-      <link>http://localhost:1313/posts/achivements/</link>
+      <link>https://jl-yu-0327.github.io/posts/achivements/</link>
       <pubDate>Tue, 28 May 2024 20:48:44 +1000</pubDate>
-      <guid>http://localhost:1313/posts/achivements/</guid>
+      <guid>https://jl-yu-0327.github.io/posts/achivements/</guid>
       <description>Beijing University of Technology Outstanding Graduate Award - June 2023 Academic Excellence Scholarship - Dec 2021 &amp;amp; 2022 Innovation and Entrepreneurship Scholarship - Nov 2022 Excellent Social Practice Group Scholarship - Dec 2021 MCM/ICM Meritorious Winner (Top 10%) - May 2022 </description>
     </item>
     <item>
       <title>Skills</title>
-      <link>http://localhost:1313/posts/skills/</link>
+      <link>https://jl-yu-0327.github.io/posts/skills/</link>
       <pubDate>Tue, 28 May 2024 17:32:40 +1000</pubDate>
-      <guid>http://localhost:1313/posts/skills/</guid>
+      <guid>https://jl-yu-0327.github.io/posts/skills/</guid>
       <description>Programming Python Web Development Flask FastAPI Data Analysis and AI Data Processing numpy pandas matplotlib Machine Learning scikit-learn Deep Learning pytorch Natural Language Processing nltk gensim Java Android Development JavaFX Frontend HTML, CSS, JavaScript jQuery Ajax Bootstrap Vue.js Database SQL MySQL Sqlite Postgresql NoSQL Neo4j </description>
     </item>
     <item>
       <title>A Clinician Centric Website for Monitoring the Progress of Patients</title>
-      <link>http://localhost:1313/projects/patient/</link>
+      <link>https://jl-yu-0327.github.io/projects/patient/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/patient/</guid>
+      <guid>https://jl-yu-0327.github.io/projects/patient/</guid>
       <description>Objectives The high-level goal of the project is to build a clinician centric website for submitting and viewing patient data and monitoring the progress of patients. The subproject &amp;ldquo;Summary Page Construction&amp;rdquo; that I am responsible for is designed to achieve one of the goals of the entire website, which is to provide an intuitive and easy-to-use page to view patient information.&#xA;Stakeholders Project manager: Project manager from the host is responsible for supervising and managing the entire project implementation process, ensuring that the project is completed on time and meets the user requirements and expected quality standards.</description>
     </item>
     <item>
       <title>A Gomoku Game Website</title>
-      <link>http://localhost:1313/projects/gomoku/</link>
+      <link>https://jl-yu-0327.github.io/projects/gomoku/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/gomoku/</guid>
+      <guid>https://jl-yu-0327.github.io/projects/gomoku/</guid>
       <description>Demonstration Main page The local mode of Gomoku game. User can play with their friends on the same window. It doesn&amp;rsquo;t need player to log in. Their scores would not be recorded into the Rank list. The online mode of Gomoku game. Users play online with the competitor from different windows. It requires the user to sign up and in. Their scores would be recorded into the Rank list. Customized setting for logged-in Users Log in, log out, editing profile and register functionality.</description>
     </item>
     <item>
       <title>A Knowledge-Graph-Based Website for Plant Knowledge Popularization</title>
-      <link>http://localhost:1313/projects/plant_kg/</link>
+      <link>https://jl-yu-0327.github.io/projects/plant_kg/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/plant_kg/</guid>
+      <guid>https://jl-yu-0327.github.io/projects/plant_kg/</guid>
       <description>Objectives The primary objectives of the project are to use innovative and competitive approaches to disseminate knowledge about plants, and to seek sponsorship for the non-profit organization. To achieve these objectives, we will cover the following scope:&#xA;Establish a plant knowledge website based on a knowledge graph to popularize plant knowledge. Provide high-quality plant knowledge presented using a knowledge graph. Encourage knowledge acquisition through knowledge tests. Support charities for every completed knowledge test.</description>
     </item>
   </channel>
